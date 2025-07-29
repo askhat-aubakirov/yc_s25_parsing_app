@@ -42,24 +42,25 @@ I used 3 evenings to tackle this problem and it took me around 8 quite naive ite
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/yc-s25-tracker.git
-   cd yc-s25-tracker
+   git clone https://github.com/askhat-aubakirov/yc_s25_parsing_app
+   cd yc_s25_parsing_app
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 2. **Launch the Streamlit App**
    ```bash
-   streamlit run app.py
+   streamlit run only_new_app.py
 
 ## File Structure:
    ```bash
    📦 yc-s25-tracker/
    │
-   ├── app.py                     # Streamlit dashboard
-   ├── scraper_utils.py          # Scraping logic (modular)
+   ├── only_new_app.py           # Streamlit script
    ├── clean_new_data.csv        # Main dataset file
    ├── requirements.txt          # Python dependencies
    └── README.md                 # This file
+   └── duck.jpeg                 # my duck
+
 
 
    
