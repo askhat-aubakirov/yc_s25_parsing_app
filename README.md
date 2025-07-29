@@ -2,7 +2,7 @@
 
 This project is a lightweight scraper and minimalistic dashboard for tracking companies from the [Y Combinator Summer 2025 batch](https://www.ycombinator.com/companies?batch=Summer%202025).
 
-I used 3 evenings to tackle this problem and it took me around 8 quite naive iterations and 2 serious conversations with a yellow duck at my desk:
+I used 3 evenings to tackle this problem and it took me around 8 quite naive iterations and 2 serious conversations with a yellow duck on my desk:
 ![my programming buddy - yellow duck](duck.jpeg)
 
 ## 📦 Features
